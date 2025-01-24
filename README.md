@@ -32,7 +32,7 @@ CREATE TABLE estudiantes (
 db {
   driver = "com.mysql.cj.jdbc.Driver"
   url = "jdbc:mysql://localhost:3306/estudiantes_db"
-  user = "USER"
-  password = ""
+  user = "root"
+  password = "UTPL"
 }
 ```
