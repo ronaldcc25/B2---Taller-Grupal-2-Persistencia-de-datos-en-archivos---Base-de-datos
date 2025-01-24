@@ -1,6 +1,6 @@
 # B2---Taller-Grupal-2-Persistencia-de-datos-en-archivos---Base-de-datos
 
-Informacion agregada en un archivo CSV: 
+## Informacion agregada en un archivo CSV: 
 
     nombre,edad,calificacion,genero
     Andrés,10,20,M
