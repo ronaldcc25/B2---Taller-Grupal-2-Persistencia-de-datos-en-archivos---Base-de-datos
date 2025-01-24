@@ -15,6 +15,13 @@ Informacion agregada en un archivo CSV:
     Daniel,10,20,M
 
 
-
-
+##DATA BASE
+```database
+CREATE TABLE estudiantes (
+    nombre VARCHAR(50),
+    edad INT,
+    calificacion INT,
+    genero CHAR(1)
+);
+```
 
