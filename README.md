@@ -15,8 +15,8 @@ Informacion agregada en un archivo CSV:
     Daniel,10,20,M
 
 
-##DATA BASE
-```database
+## DATA BASE
+```sql
 CREATE TABLE estudiantes (
     nombre VARCHAR(50),
     edad INT,
