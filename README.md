@@ -17,6 +17,8 @@ Informacion agregada en un archivo CSV:
 
 ## DATA BASE
 ```sql
+CREATE DATABASE estuddiantes;
+USE esrudiantes;
 CREATE TABLE estudiantes (
     nombre VARCHAR(50),
     edad INT,
